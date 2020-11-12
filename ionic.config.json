@@ -1,0 +1,7 @@
+{
+  "name": "pubnubfileionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
